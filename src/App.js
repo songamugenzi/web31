@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   return (
     <main>
-      <h1>Welcome to Vercel previously Zeit!</h1>
+      <h1>Welcome to the new Vercel platform previously Zeit!</h1>
       <h2>
         Deployed with{' '}
         <a
